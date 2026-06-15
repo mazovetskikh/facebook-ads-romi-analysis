@@ -20,10 +20,10 @@ Analysed Facebook Ads campaign data to evaluate spend efficiency, ROMI trends, a
 - Built a correlation heatmap across spend, impressions, clicks, value, CPC, CPM, CTR, and ROMI to identify key performance drivers
 - Visualised the relationship between spend and total value using a regression plot
 
-![Correlation Heatmap](images/heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 ## Result
 
 Total value showed the strongest correlation with total spend, while ROMI showed weak correlation with spend and other metrics — meaning higher spend doesn't reliably predict higher returns. Campaign-level comparison revealed significant ROMI variation, highlighting which campaigns were efficient versus which were driving unnecessary spend without proportional returns.
 
-![ROMI by Campaign](images/romi_by_campaign.png)
+![ROMI by Campaign](romi_by_campaign.png)
