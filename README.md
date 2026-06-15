@@ -10,7 +10,7 @@
 
 Analysed Facebook Ads campaign data to evaluate spend efficiency, ROMI trends, and the relationships between key advertising metrics. The analysis covers daily spend patterns, campaign-level performance comparison, and correlation analysis to identify what drives campaign profitability.
 
-![Rolling Spend](images/rolling_spend.png)
+![Rolling Spend](rolling_spend.png)
 
 ## My Tasks
 
